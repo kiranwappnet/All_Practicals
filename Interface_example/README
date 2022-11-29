@@ -1,0 +1,1 @@
+Here we created an example to understand the Interface. An Interface allows the users to create programs, specifying the public methods that a class must implement, without involving the complexities and details of how the particular methods are implemented. 
